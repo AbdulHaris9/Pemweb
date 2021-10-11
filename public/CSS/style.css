@@ -1,0 +1,25 @@
+
+
+.jumbotron{
+    padding-top: 7rem;
+    background-color: #e8e9e3;    
+}
+
+#galeri{
+    background-color: #e8e9e3; 
+}
+
+#tentang{
+    
+}
+
+section{
+    padding-top: 4rem;
+}
+
+.icon1{
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 1rem;
+    justify-content: center;
+}
